@@ -1,0 +1,5 @@
+.env
+ignoreme.txt
+/src/ignoreme.txt
+/node_modules/
+*node_modules/*
